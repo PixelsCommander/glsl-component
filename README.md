@@ -11,7 +11,7 @@ Usage
 
 **TODOs**
 
-* Send u_ prefixed attributes as uniform
+* Send u_ prefixed attributes as uniforms
 * Resize
 
 **License**
