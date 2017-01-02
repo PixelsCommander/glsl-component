@@ -17,5 +17,6 @@ Usage
 **License**
 MIT: http://mit-license.org/
 
-Based on [glslCanvas](https://github.com/patriciogonzalezvivo/glslCanvas.git)
 Copyright 2017 Denis Radin aka [PixelsCommander](http://pixelscommander.com)
+
+Based on [glslCanvas](https://github.com/patriciogonzalezvivo/glslCanvas.git)
