@@ -5,9 +5,9 @@ Lightweight library for GLSL rendered web components
 
 Usage
 =====
-*Install via `npm i glsl-component`
-*Include into app
-*Now you can use *glsl-component* as `<glsl-component>YOUR FRAGMENT SHADER CODE</glsl-component>`
+* Install via `npm i glsl-component`
+* Include into app
+* Now you can use *glsl-component* as `<glsl-component>YOUR FRAGMENT SHADER CODE</glsl-component>`
 
 **TODOs**
 
