@@ -1,5 +1,5 @@
 # GLSL-Components
-Lightweight library for GLSL rendered web components based on [glslCanvas](https://github.com/patriciogonzalezvivo/glslCanvas.git)
+Lightweight library for GLSL rendered web components
 
 ![](http://pixelscommander.com/polygon/glsl-components/preloader.gif)
 
@@ -13,3 +13,9 @@ Usage
 
 * Send u_ prefixed attributes as uniform
 * Resize
+
+**License**
+MIT: http://mit-license.org/
+
+Based on [glslCanvas](https://github.com/patriciogonzalezvivo/glslCanvas.git)
+Copyright 2017 Denis Radin aka [PixelsCommander](http://pixelscommander.com)
