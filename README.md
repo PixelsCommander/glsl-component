@@ -15,6 +15,7 @@ Usage
 * Resize
 
 **License**
+
 MIT: http://mit-license.org/
 
 Copyright 2017 Denis Radin aka [PixelsCommander](http://pixelscommander.com)
