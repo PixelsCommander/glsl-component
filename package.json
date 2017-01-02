@@ -1,0 +1,25 @@
+{
+  "name": "glsl-component",
+  "version": "0.0.1",
+  "main": "./dist/glsl-component.js",
+  "author": {
+    "name": "Denis Radin",
+    "email": "denis.radin@gmail.com"
+  },
+  "dependencies": {
+    "document-register-element": "^1.3.0",
+    "glslCanvas": "0.0.17"
+  },
+  "devDependencies": {
+    "webpack-uglify-js-plugin": "^1.1.9",
+    "babel-core": "^6.14.0",
+    "babel-loader": "^6.2.5",
+    "babel-preset-es2015": "^6.14.0",
+    "webpack": "^1.13.2",
+    "webpack-visualizer-plugin": "^0.1.5"
+  },
+  "repository": "mgonto/gulp-browserify-library-seed",
+  "engines": {
+    "node": ">=0.8.0"
+  }
+}
